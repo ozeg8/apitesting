@@ -1,10 +1,16 @@
-🧪 Hotel Reservation API Automation Project
+🧪 Otel Rezervasyon API Otomasyon Projesi
 
-Developed a complete API automation suite for a hotel booking application using Rest Assured and TestNG.
+Rest Assured ve TestNG kullanarak bir otel rezervasyon uygulaması için eksiksiz bir API otomasyon paketi geliştirildi.
 
-🔹 Implemented all HTTP methods (GET, POST, PUT, PATCH, DELETE) to test CRUD functionalities of booking endpoints.
-🔹 Added request/response validation, schema verification, and reusable test data structures.
-🔹 Designed with scalability and maintainability in mind — easy to integrate into CI/CD pipelines.
-🔹 Ensures data integrity and reliability through parameterized test cases and assertion best practices.
 
-📈 This project reflects real-world API testing scenarios and serves as a foundation for advanced automation frameworks.
+🔹 Rezervasyon uç noktalarının CRUD işlevlerini test etmek için tüm HTTP yöntemleri (GET, POST, PUT, PATCH, DELETE) uygulandı.
+
+🔹 İstek/yanıt doğrulaması, şema doğrulaması ve yeniden kullanılabilir test veri yapıları eklendi.
+
+🔹 Ölçeklenebilirlik ve sürdürülebilirlik göz önünde bulundurularak tasarlandı; CI/CD süreçlerine kolayca entegre edilebilir.
+
+🔹 Parametreli test senaryoları ve doğrulama en iyi uygulamaları aracılığıyla veri bütünlüğünü ve güvenilirliğini sağlar.
+
+
+
+📈 Bu proje, gerçek dünya API test senaryolarını yansıtır ve gelişmiş otomasyon çerçeveleri için bir temel oluşturur.
